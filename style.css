@@ -3,7 +3,7 @@
   width: 400px;
   display: flex;
   flex-wrap: wrap;
-  background-color: grey;
+  background-color: #808080;
 }
 
 .grid div{
